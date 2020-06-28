@@ -40,7 +40,7 @@ namespace ClassLibrary1
             if (k > 1 || m==1)
                 return "Число составное";
             else
-                return "Число простое";
+                return "Число простое (изм2)";
         }
     }
 }
