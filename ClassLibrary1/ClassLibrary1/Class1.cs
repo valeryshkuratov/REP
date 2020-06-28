@@ -20,13 +20,14 @@ namespace ClassLibrary1
             return m;
 
         }
-        
-        public static int NOK(int m, int n)
+
+        //какие-то изменения
+        /*public static int NOK(int m, int n)
         {
             int i;
             i = (m * n) / NOD(m, n);
             return i;
-        }
+        }*/
 
         public static string simpleNum(int m)
         {

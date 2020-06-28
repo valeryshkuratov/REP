@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Stud\\SP\\4\\15\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {}
+    "d:\\Stud\\Практика 02\\REP\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "d:\\Stud\\SP\\4\\15\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {
+    "d:\\Stud\\Практика 02\\REP\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Stud\\SP\\4\\15\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectUniqueName": "d:\\Stud\\Практика 02\\REP\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
         "projectName": "ClassLibrary1",
-        "projectPath": "d:\\Stud\\SP\\4\\15\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectPath": "d:\\Stud\\Практика 02\\REP\\ClassLibrary1\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\Valery\\.nuget\\packages\\",
-        "outputPath": "d:\\Stud\\SP\\4\\15\\ClassLibrary1\\ClassLibrary1\\obj\\",
+        "outputPath": "d:\\Stud\\Практика 02\\REP\\ClassLibrary1\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Valery\\AppData\\Roaming\\NuGet\\NuGet.Config",
